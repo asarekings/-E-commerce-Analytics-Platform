@@ -11,7 +11,7 @@
 
 **Advanced Customer Segmentation & Sales Prediction Suite**
 
-[🚀 Live Demo](https://asarekings.github.io/ecommerce-analytics-platform) | [📊 Features](#features) | [🔧 Installation](#installation) | [📖 Documentation](#documentation)
+[🚀 Live Demo](https://asarekings.github.io/-E-commerce-Analytics-Platform/) | [📊 Features](#features) | [🔧 Installation](#installation) | [📖 Documentation](#documentation)
 
 </div>
 
